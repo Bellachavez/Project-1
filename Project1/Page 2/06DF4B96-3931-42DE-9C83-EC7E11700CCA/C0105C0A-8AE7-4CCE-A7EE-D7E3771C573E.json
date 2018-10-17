@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "C0105C0A-8AE7-4CCE-A7EE-D7E3771C573E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5F15D735-0FE0-471E-861A-DF0164E612C9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "02B6ED5B-C86E-4E24-A312-CD946A1C6A09",
+    "height": 62,
+    "width": 309,
+    "x": 33,
+    "y": 341
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Password Copy",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC99EEB9-F5EF-45BC-ADCA-12B55378E92E",
+      "overrideName": "A9EAE3D9-F5C8-4151-BB1B-7055E1C76B48_stringValue",
+      "value": "Verify Password"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0B7909BB-5E81-4E25-B30E-FCA8C41719EB",
+      "overrideName": "408B83EB-26DB-4E30-ADC9-D73C054D4677_stringValue",
+      "value": "Confirm Password"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7F387AB4-7B51-412E-A01A-3FD55BCD579E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4239D1CA-0A70-4E5D-8720-59A0EEA4E687",
+  "verticalSpacing": 0
+}

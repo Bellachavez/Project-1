@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "377DC2FF-F3D2-43C2-B186-F624EC341CB4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 78,
+    "width": 76,
+    "x": 296,
+    "y": 138
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D579CD29-6C4A-47A5-BE56-BE82C57EA7B4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E8F3727B-8503-4EEF-A5E9-DA24498391E8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B97086AA-82A6-4215-AC10-2770767E18C5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "05765359-87DF-402B-97CB-889CE74E80C9"
+    },
+    {
+      "class": "group",
+      "id": "A920D5A6-BE47-426A-8BCB-B89303BE7A7F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D0608899-C739-4C95-A7C2-95A91770A370"
+    }
+  ],
+  "name": "passport",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

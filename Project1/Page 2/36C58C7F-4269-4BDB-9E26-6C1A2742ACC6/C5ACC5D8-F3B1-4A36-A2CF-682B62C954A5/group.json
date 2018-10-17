@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "C5ACC5D8-F3B1-4A36-A2CF-682B62C954A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 84,
+    "x": 158,
+    "y": 591
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2BD0A8ED-A825-4E38-B5CB-54C95975ABC8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "21D67163-B766-4681-81F0-8A578B5B8C9C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D1E930DD-AB1F-49B4-AEE7-1C9DE7A16AD2"
+    },
+    {
+      "class": "group",
+      "id": "77D7DF05-E19A-47D0-AA3A-5AF515B63344"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "78609EC1-B318-48C0-A60D-765BEA32090C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D06B4873-33DC-41F4-9BD3-474B53999578"
+    }
+  ],
+  "name": "plane",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

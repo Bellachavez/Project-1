@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "4B398501-914F-4111-BD31-D78B926DA9E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 78,
+    "width": 81,
+    "x": 10,
+    "y": 237
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3B1738A9-DA62-46DC-BA50-8AC07CB278DB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "444B839C-2CC1-4232-BA3D-F2BFE0413E9B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "13CB16E6-80F5-4441-83E9-F8562F0A9192"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "57BBA99A-4F0E-4D1F-B7B6-E146782062EB"
+    },
+    {
+      "class": "group",
+      "id": "E2751805-7CEA-4723-AC02-6A74E7375FA5"
+    }
+  ],
+  "name": "bag tag",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

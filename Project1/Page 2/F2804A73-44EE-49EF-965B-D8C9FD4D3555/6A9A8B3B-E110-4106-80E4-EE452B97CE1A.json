@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "6A9A8B3B-E110-4106-80E4-EE452B97CE1A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CAA8AADE-CFE7-4E87-85EE-25182B915358",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8F885E03-5E09-456A-81C7-5B2CD31BC527",
+    "height": 62,
+    "width": 309,
+    "x": 28,
+    "y": 214
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Email Copy",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7B680F00-C1A9-434F-8237-E5316CFB8D35",
+      "overrideName": "408B83EB-26DB-4E30-ADC9-D73C054D4677_stringValue",
+      "value": "Phone Number"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE2DF6CD-4920-4B76-862B-553252AB7C65",
+      "overrideName": "A9EAE3D9-F5C8-4151-BB1B-7055E1C76B48_stringValue",
+      "value": "Phone number"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A5768DD5-1DE0-451E-9510-0E8A3A7827E6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4239D1CA-0A70-4E5D-8720-59A0EEA4E687",
+  "verticalSpacing": 0
+}
